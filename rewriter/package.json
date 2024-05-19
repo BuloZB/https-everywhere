@@ -5,6 +5,6 @@
     "xmldom" : "0.1.17",
     "URIjs" : "1.11.2",
     "readdirp" : "0.3.2",
-    "event-stream" : "3.0.20"
+    "event-stream" : "3.3.5"
   }
 }
